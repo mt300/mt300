@@ -1,8 +1,5 @@
 ### Hi there 👋
-## I'm mt300, thats not my name but I like it.🌱 I'm electronic engineering student at IFSC-Florianópolis and a system/software developer aspirant.📫If you know any other funny functionalities from Github 'secret self' repositorie tell me, so I'll visualy pollute my profile even more LOL.
-
-
-#  ⚡ I got this snake commits eater from rafaballerini/ github profile. https://github.com/rafaballerini
+## 
 
 <div> 
   <a href="https://instagram.com/matheussvt13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
