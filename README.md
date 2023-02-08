@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there 👋. 
 ## FullStack Developer
 #### Seniority: Junior/Mid Level
 ## Main Skills
-### Node.js, React.js, Javascript, PHP, HTML5/CSS3, Bootstrap, C/C++, SQL
+### Node.js, React.js, Javascript, PHP, Python, C/C++, HTML5/CSS3, Bootstrap, SQL
+## Currently Studying
+### PHP, WordPress
 ## Contact Me!
 <div> 
   <a href="https://instagram.com/matheussvt13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
