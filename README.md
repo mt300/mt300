@@ -4,7 +4,7 @@
 ## Main Skills
 ### Node.js, React.js, Javascript, PHP, Python, C/C++, HTML5/CSS3, Bootstrap, SQL
 ## Currently Studying
-### PHP, WordPress
+### Next.js
 ## Contact Me!
 <div> 
   <a href="https://instagram.com/matheussvt13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
