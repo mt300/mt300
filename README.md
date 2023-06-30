@@ -1,8 +1,8 @@
 ### Hi there 👋. 
 ## FullStack Developer
-#### Seniority: Junior/Mid Level
+#### Seniority: Mid Level
 ## Main Skills
-### Node.js, React.js, Javascript, PHP, Python, C/C++, HTML5/CSS3, Bootstrap, SQL
+### Node.js, React.js, Javascript, PHP, Python, C/C++, Unity, HTML5/CSS3, Bootstrap, SQL
 ## Currently Studying
 ### Next.js
 ## Contact Me!
